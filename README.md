@@ -1,5 +1,5 @@
 # Smart Speakr
-A Mobile Application using Flutter to helps Deaf and dumb People by translate Sign Language and helps vormal people to learn sign language.
+A Mobile Application using Flutter to helps Deaf and dumb People by translate Sign Language and helps normal people to learn sign language.
   
 ## About  
 Our goal is to make it easier for individuals who are deaf or have hearing loss to communicate with the people around them: relatives, friends, acquaintances, and strangers, through:
