@@ -38,7 +38,7 @@ flutter run
 
 ### Start
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/assets/Screenshot 2024-02-27 080132.png" width="350"/>
+   <img src="https://user-images.githubusercontent.com/Screenshot 2024-02-27 080132.png" width="350"/>
 </p>
 
 ### Onboarding screen
