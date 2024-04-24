@@ -10,12 +10,12 @@ Our goal is to make it easier for individuals who are deaf or have hearing loss 
 
 ## Packages
 
-- **[speech_to_text][1]**: ^2.3.0 - A library that exposes device specific speech recognition capability.
+
 - **[flutter_tts][2]**: ^3.2.2 - A flutter text to speech plugin
 - **[avatar_glow][3]**: ^1.2.0 - This Flutter package provides a Avatar Glow Widget with cool background glowing animation.
 - **[animated_splash_screen][4]**: ^1.1.0 - Flutter package to make a cool splash screen with animation.
 - **[flip_card][5]**: ^0.5.0 - A component that provides flip card animation. It could be used for hide and show details of a product.
-- **[getwidget][6]**: ^2.0.4 - GetWidget has 1000+ pre-build widgets that you can reuse to develop both Flutter mobile app and web app.
+
 
    [1]: https://pub.dev/packages/speech_to_text/versions/2.3.0
    [2]: https://pub.dev/packages/flutter_tts
