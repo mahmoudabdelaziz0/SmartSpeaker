@@ -38,7 +38,7 @@ flutter run
 
 ### Start
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/Screenshot 2024-02-27 080132.png" width="350"/>
+   <img src="https://raw.githubusercontent.com/mahmoudabdelaziz0/SmartSpeaker/master/assets/Screenshot%202024-02-27%20080143.png?token=GHSAT0AAAAAACRKMSDOSOWN2B6IPAYB2Y7QZRIOESQ"/>
 </p>
 
 ### Onboarding screen
