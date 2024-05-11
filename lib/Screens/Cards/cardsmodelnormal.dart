@@ -7,8 +7,6 @@ import 'package:SmartSpeaker/Screens/Cards/model.dart';
 
 
 
-
-
 class CardsModelNormal extends StatelessWidget {
   final model data;
 
@@ -83,7 +81,7 @@ class CardsModelNormal extends StatelessWidget {
                     ),
                   ),
                   back: Card(
-                    color: Color.fromRGBO(10, 141, 246, 1.0),
+                    color: Color.fromRGBO(10, 94, 227, 1.0),
                     elevation: 4,
                     shadowColor: Color.fromRGBO(190, 18, 277, 2),
                     margin: EdgeInsets.all(10),

@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors, file_names
+
 
 import 'package:SmartSpeaker/Screens/Cards/categories.dart';
 import 'package:SmartSpeaker/Screens/sectionOne/firstSection.dart';
@@ -44,7 +44,7 @@ class _getStartedState extends State<getStarted> {
                     bottomRight: const Radius.circular(50.0))),
           ),
         ),
-        backgroundColor: Color.fromRGBO(36, 36, 62, 1),
+        backgroundColor: Color.fromRGBO(36, 36, 66, 1),
         body: SingleChildScrollView(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,

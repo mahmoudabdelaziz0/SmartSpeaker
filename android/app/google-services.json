@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155797885877",
+    "project_id": "smartspeaker-db92b",
+    "storage_bucket": "smartspeaker-db92b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155797885877:android:885015479cb5b827097ffc",
+        "android_client_info": {
+          "package_name": "com.example.SmartSpeakr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvvYS8BWcd7hZNu9fPS5bxKT0Gv0RxjOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

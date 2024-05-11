@@ -38,7 +38,7 @@ flutter run
 
 ### Start
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahmoudabdelaziz0/SmartSpeaker/main/ProjectPics/Screenshot 2024-02-27 080104.png
+  <img src="https://raw.githubusercontent.com/mahmoudabdelaziz0/SmartSpeaker/main/assets/Screenshot 2024-02-27 080132.png
 " />
 </p>
 
