@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_const_constructors
 
 
-import 'package:SmartSpeaker/Screens/sectionOne/firstSection.dart';
+import 'package:SmartSpeaker/Screens/sectionOne/FirstScreen.dart';
 import 'package:SmartSpeaker/OnBoarding/onBoard.dart';
 import 'package:flutter/widgets.dart';
 import 'package:SmartSpeaker/Screens/getStarted.dart';
@@ -13,7 +13,7 @@ import 'getStarted.dart';
 final Map<String, WidgetBuilder> routes = {
   OnBoardScreen.routeName: (context) => OnBoardScreen(),
   getStarted.routeName: (context) => getStarted(),
-  SpeechScreen.routeName: (context) => SpeechScreen(),
+  FirstScreen.routeName: (context) => FirstScreen(),
 
   
  

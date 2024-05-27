@@ -1,7 +1,7 @@
 
 
 import 'package:SmartSpeaker/Screens/Cards/categories.dart';
-import 'package:SmartSpeaker/Screens/sectionOne/firstSection.dart';
+import 'package:SmartSpeaker/Screens/sectionOne/FirstScreen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:getwidget/components/card/gf_card.dart';
@@ -51,7 +51,7 @@ class _getStartedState extends State<getStarted> {
             children: [
               InkWell(
                 onTap: () {
-                  Navigator.pushNamed(context, SpeechScreen.routeName);
+                  Navigator.pushNamed(context, FirstScreen.routeName);
                 },
                 child: GFCard(
                   color: Color(0xFF0A8DF6),

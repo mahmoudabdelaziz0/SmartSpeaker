@@ -2,42 +2,22 @@
 class Assets {
   Assets._();
 
-  static const String adaptiveSpeechMainActivity = 'android/app/src/main/kotlin/com/example/adaptive_speech/MainActivity.kt';
-  static const String androidBuild = 'android/build.gradle';
-  static const String androidGradle = 'android/gradle.properties';
-  static const String androidGradlew = 'android/gradlew';
-  static const String androidLocal = 'android/local.properties';
-  static const String androidSettings = 'android/settings.gradle';
-  static const String appBuild = 'android/app/build.gradle';
   static const String assetsChat1 = 'assets/Chat1.png';
   static const String assetsChat2 = 'assets/Chat2.png';
   static const String assetsChat3 = 'assets/Chat3.png';
   static const String assetsChatOutline = 'assets/Chat_Outline.png';
   static const String assetsImg = 'assets/img.png';
   static const String assetsImg1 = 'assets/img1.png';
+  static const String assetsLabels = 'assets/labels.txt';
   static const String assetsLogo = 'assets/logo.png';
+  static const String assetsModelUnquant = 'assets/model_unquant.tflite';
   static const String assetsPoppinsRegular = 'assets/Poppins-Regular.ttf';
+  static const String assetsScreenshot 20240227 080053 = 'assets/Screenshot 2024-02-27 080053.png';
+  static const String assetsScreenshot 20240227 080114 = 'assets/Screenshot 2024-02-27 080114.png';
+  static const String assetsScreenshot 20240227 080132 = 'assets/Screenshot 2024-02-27 080132.png';
+  static const String assetsScreenshot 20240227 080143 = 'assets/Screenshot 2024-02-27 080143.png';
+  static const String assetsScreenshot 20240227 080242 = 'assets/Screenshot 2024-02-27 080242.png';
+  static const String assetsScreenshot 20240227 080326 = 'assets/Screenshot 2024-02-27 080326.png';
   static const String assetsSplash = 'assets/splash.png';
-  static const String debugAndroidManifest = 'android/app/src/debug/AndroidManifest.xml';
-  static const String drawableLaunchBackground = 'android/app/src/main/res/drawable/launch_background.xml';
-  static const String drawableV21LaunchBackground = 'android/app/src/main/res/drawable-v21/launch_background.xml';
-  static const String gradleWrapperGradleWrapper = 'android/gradle/wrapper/gradle-wrapper.properties';
-  static const String mainAndroidManifest = 'android/app/src/main/AndroidManifest.xml';
-  static const String mainIcLauncherPlaystore = 'android/app/src/main/ic_launcher-playstore.png';
-  static const String mipmapAnydpiV26IcLauncher = 'android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml';
-  static const String mipmapAnydpiV26IcLauncherRound = 'android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml';
-  static const String mipmapHdpiIcLauncherForeground = 'android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png';
-  static const String mipmapHdpiIcLauncherRound = 'android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png';
-  static const String mipmapMdpiIcLauncher = 'android/app/src/main/res/mipmap-mdpi/ic_launcher.png';
-  static const String mipmapXhdpiIcLauncher = 'android/app/src/main/res/mipmap-xhdpi/ic_launcher.png';
-  static const String mipmapXxhdpiIcLauncher = 'android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png';
-  static const String mipmapXxxhdpiIcLauncher = 'android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png';
-  static const String pluginsGeneratedPluginRegistrant = 'android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java';
-  static const String profileAndroidManifest = 'android/app/src/profile/AndroidManifest.xml';
-  static const String smartSpeakrAndroidGradlew = 'android/gradlew.bat';
-  static const String valuesIcLauncherBackground = 'android/app/src/main/res/values/ic_launcher_background.xml';
-  static const String valuesNightStyles = 'android/app/src/main/res/values-night/styles.xml';
-  static const String valuesStyles = 'android/app/src/main/res/values/styles.xml';
-  static const String wrapperGradleWrapper = 'android/gradle/wrapper/gradle-wrapper.jar';
 
 }
